@@ -3,4 +3,4 @@ I will be posting updates from the IT projects that I'm working on during my cur
 
 [![sgmira's 42 stats](https://badge.mediaplus.ma/colorfulwaves/sgmira)](https://github.com/oakoudad/badge42)
 
-[![sgmira's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMood)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMood)](https://github.com/anuraghazra/github-readme-stats)
